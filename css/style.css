@@ -187,7 +187,6 @@ h6 {
   line-height: 1;
   font-weight: 400;
   letter-spacing: 3px;
-  text-transform: uppercase;
 }
 
 #header .logo h1 a,
@@ -1429,8 +1428,11 @@ h6 {
   color: #535074;
   font-size: 15px;
 }
-
+#footer .copyright a{
+  color: #535074;
+}
 #footer .credits {
+  display: none!important;
   text-align: center;
   font-size: 14px;
   padding-top: 4px;
