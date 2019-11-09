@@ -9,4 +9,4 @@ deployment:
     # - /bin/cp -r * $DEPLOYPATH                        #copy all recursively to $DEPLOYPATH
         
     - export DEPLOYPATH=/var/home/devenvoc/public_html
-    - /bin/cp - r * $DEPLOYPATH
+    - /bin/cp -r * $DEPLOYPATH
