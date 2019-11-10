@@ -25,7 +25,7 @@
   <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
   <!-- Main Stylesheet File -->
-  <?php echo time(); ?>
+  <?php //echo time(); ?>
   <link href="css/style.css" rel="stylesheet">
 
 </head>
