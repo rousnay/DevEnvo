@@ -94,7 +94,7 @@
         <div class="col-md-6 intro-info order-md-first order-last">
           <!-- <h2>DevEnvo Hosting Solutions<br>for Your <span>Business!</span></h2> -->
           <!-- <h2><span>Development Environment</span> for Web Developer and Programmer</h2> -->
-          <h2>Developer Frienly Hosting Solutions<br>for Your <span>Startup!</span></h2>
+          <h2>Developer Friendly Hosting Solutions<br>for Your <span>Startup!</span></h2>
           <div>
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
           </div>
